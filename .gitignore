@@ -1,0 +1,10 @@
+/new-portfolio
+.new-portfolio
+new-portfolio
+..new-portfolio
+.font-awesome
+/flex-portfolio/font-awesome
+/flex-portfolio/img
+/flex-portfolio/favicon-*
+/flex-portfolio/favicon*
+*.scss
